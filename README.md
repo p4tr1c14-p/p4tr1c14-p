@@ -1,13 +1,12 @@
-- 👋 Hi, I’m Patricia Pérez Cruz
-- 👀 I’m interested in listen music and programming
-- 🌱 I’m currently learning programming lenguages, and listen music
-- 💞️ I’m looking to collaborate with my friends in many projects 
-- 📫 You can contact me with my e-mail: patriciaperezcruz08@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I listen to any music and I watch Asian dramas
+👋 Hola, soy Patricia Pérez Cruz
+👀 Me interesa escuchar música y la programación
+🌱 Actualmente estoy aprendiendo lenguajes de programación, y escuchar música
+💞️ Busco colaborar con mis amigos en muchos proyectos
+📫 Puedes contactar conmigo con mi correo electrónico: patriciaperezcruz08@gmail.com
+😄 Pronombres: Ella/Her
+⚡ Dato curioso: Escucho cualquier música y veo dramas asiáticos.
+Mi nombre es Patricia Pérez Cruz, tengo 18 años, ahora estoy estudiando en la Universidad de «La Sierra Juárez», estoy cursando mi segundo año en la carrera de «Informática». Ahora tengo conocimientos en lenguajes de programación como C y C++....
 
-My name is Patricia Pérez Cruz, I have 18 years old, now I am study in the University of "La Sierra Juárez", I'm cursing my second year in the "Computer Science".
-Now I have knowing in programming lenguages such as C and C++...
 
 
 
