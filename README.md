@@ -22,10 +22,9 @@ Me encantaría la idea de aplicar mis habilidades en proyectos creativos y diver
 En mis ratos libres, me gusta descubrir música de diferentes idiomas, y ver dramas o series que me ayudan a relajarme del estudio. Estoy emocionada por seguir creciendo 
 en el campo de la informática y poder ayudar en proyectos innovadores en el futuro.
 
-![image](https://github.com/user-attachments/assets/92abb5e2-3ba4-47b9-9238-0ec7391b4681)
 
+   ![image](https://github.com/user-attachments/assets/ded5f81b-b20b-45b0-8cd3-5094dcf9f626)
 
-![image](https://github.com/user-attachments/assets/c9c14b79-ca0b-47c1-a254-a1c5d56e9074)
 
 
 
