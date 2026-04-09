@@ -12,7 +12,7 @@
 
 ⚡ Dato curioso: Escucho cualquier tipo de música y veo dramas asiáticos.
  
-Mi nombre es Patricia Pérez Cruz, tengo 18 años, ahora estoy estudiando en la Universidad de "La Sierra Juárez". Estoy cursando mi segundo año en la carrera 
+Mi nombre es Patricia Pérez Cruz, tengo 18 años, ahora estoy estudiando en la Universidad de "La Sierra Juárez". Estoy cursando mi tercer año en la carrera 
 de "Licenciatura en Informática".
 
 Por ahora tengo conocimientos en lenguajes de programación como C, C++ y Python, además he comenzado a explorar el lenguaje de Java.
